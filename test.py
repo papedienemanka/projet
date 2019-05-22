@@ -2,7 +2,7 @@
 import pandas as pd
 """with open('projet.xlsx', 'rb') as f:
     content = f.readlines()
-file = pd.read_csv('Données.csv', sep=";")
+file = pd.read_csv('projet.csv', sep=";")
 print(file[0:3])
 file = pd.read_excel('Données.xlsx', 'Données')
 print(file[:])"""
